@@ -1,0 +1,6 @@
+#interface {
+  display: flex;
+  flex-direction: column;
+  margin: 0 15vw 0 15vw;
+  gap: 1rem;
+}
